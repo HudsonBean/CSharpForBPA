@@ -1,0 +1,14 @@
+/Users/hudsonbean/Documents/CodingProjects/Languages/C#/CSharpForBPA/CSharpForBPASolution/Basics/bin/Debug/net7.0/Basics
+/Users/hudsonbean/Documents/CodingProjects/Languages/C#/CSharpForBPA/CSharpForBPASolution/Basics/bin/Debug/net7.0/Basics.deps.json
+/Users/hudsonbean/Documents/CodingProjects/Languages/C#/CSharpForBPA/CSharpForBPASolution/Basics/bin/Debug/net7.0/Basics.runtimeconfig.json
+/Users/hudsonbean/Documents/CodingProjects/Languages/C#/CSharpForBPA/CSharpForBPASolution/Basics/bin/Debug/net7.0/Basics.dll
+/Users/hudsonbean/Documents/CodingProjects/Languages/C#/CSharpForBPA/CSharpForBPASolution/Basics/bin/Debug/net7.0/Basics.pdb
+/Users/hudsonbean/Documents/CodingProjects/Languages/C#/CSharpForBPA/CSharpForBPASolution/Basics/obj/Debug/net7.0/Basics.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hudsonbean/Documents/CodingProjects/Languages/C#/CSharpForBPA/CSharpForBPASolution/Basics/obj/Debug/net7.0/Basics.AssemblyInfoInputs.cache
+/Users/hudsonbean/Documents/CodingProjects/Languages/C#/CSharpForBPA/CSharpForBPASolution/Basics/obj/Debug/net7.0/Basics.AssemblyInfo.cs
+/Users/hudsonbean/Documents/CodingProjects/Languages/C#/CSharpForBPA/CSharpForBPASolution/Basics/obj/Debug/net7.0/Basics.csproj.CoreCompileInputs.cache
+/Users/hudsonbean/Documents/CodingProjects/Languages/C#/CSharpForBPA/CSharpForBPASolution/Basics/obj/Debug/net7.0/Basics.dll
+/Users/hudsonbean/Documents/CodingProjects/Languages/C#/CSharpForBPA/CSharpForBPASolution/Basics/obj/Debug/net7.0/refint/Basics.dll
+/Users/hudsonbean/Documents/CodingProjects/Languages/C#/CSharpForBPA/CSharpForBPASolution/Basics/obj/Debug/net7.0/Basics.pdb
+/Users/hudsonbean/Documents/CodingProjects/Languages/C#/CSharpForBPA/CSharpForBPASolution/Basics/obj/Debug/net7.0/Basics.genruntimeconfig.cache
+/Users/hudsonbean/Documents/CodingProjects/Languages/C#/CSharpForBPA/CSharpForBPASolution/Basics/obj/Debug/net7.0/ref/Basics.dll
